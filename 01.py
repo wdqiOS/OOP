@@ -39,4 +39,9 @@ print(zhezhe.age)
 
 zhezhe.doHomework()
 print(zhezhe.__dict__)
+print(zhezhe.__dict__)
 print(PythonStudent.__dict__)
+
+
+wdq = PythonStudent()
+print(wdq)
